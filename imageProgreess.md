@@ -9,6 +9,9 @@
 ### 苹果产品站效果
 ![apple](https://cloud.githubusercontent.com/assets/3349863/18623215/3c7d8b82-7e6d-11e6-9538-7c718de0af00.gif)
 
+### 自己实现的效果
+![niu](https://cloud.githubusercontent.com/assets/3349863/18623574/9b632c2a-7e71-11e6-82b5-518f20befc2f.gif)
+
 ### 原理说明
 - 首先，图片必须放在背景元素里面，便于过度效果的控制
 - 图片默认都是隐藏的，即浏览器不需要加载
