@@ -115,7 +115,7 @@
                     var imageBack = option.curObj.css('background-image'); 
                     var url = imageBack.replace(/url\(\"(.*?)\"\)/g, function(word, p1) {return p1});
                     var img = new Image(); //创建一个Image对象，实现图片的预下载
-                    img.src = url;
+                    
                     var imgCallback = function() {
                         option.curObj.addClass('progress-image-ready');
                     }
@@ -126,6 +126,7 @@
                     img.onload = function () { //图片下载完毕时异步调用callback函数。
                         imgCallback();
                     }; 
+                    img.src = url;
                     option.gtFlag = true;
                 } 
             }
