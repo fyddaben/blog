@@ -22,7 +22,7 @@
 
 ## 后续制作
 - 会制作一个docker镜像，因为服务端环境还挺麻烦的。
-
+- [源代码地址](https://github.com/fyddaben/videoImg)
 
 ## 详细分析如下
 - PS查看苹果碎片图，发现最小的单元格为8 x 8 px.
