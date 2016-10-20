@@ -1,7 +1,7 @@
-# fyddaben.github.io
+fyddaben.github.io# fyddaben.github.io
 
 ###
 
 大奔的博客
 
-[http://daben.studio](http://daben.studio)
+[fyddaben.github.io] (http://fyddaben.github.io)
