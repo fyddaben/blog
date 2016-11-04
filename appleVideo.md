@@ -16,12 +16,14 @@
 - 本来希望，换为图片之后，可以加载尺寸变小一些，实际反而增大了，想想也对，视频本来就是压缩后的，你换为图片，相当于增大了
 - 不过增大的尺寸，是可以接受的
 
+## 前提是视频的尺寸，长宽必须是8的倍数
+
 ## 方案解决流程
 
 ![default](https://cloud.githubusercontent.com/assets/3349863/19190929/b4ec7614-8cd2-11e6-89aa-05f958faf114.png)
 
-## 后续制作
-- 会制作一个docker镜像，因为服务端环境还挺麻烦的。
+## 环境制作
+- [镜像环境安装](https://github.com/fyddaben/clown/blob/master/README.md)
 - [源代码地址](https://github.com/fyddaben/videoImg)
 
 ## 详细分析如下
