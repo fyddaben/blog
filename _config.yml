@@ -1,0 +1,8 @@
+title: Daben Studio
+description: 生而知之者上也，学而知之者次也，困而学之又次也。困而不学，民斯为下矣。
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
