@@ -10,7 +10,7 @@
 4. [基于API BluePrint规则的API接口系统](https://github.com/fyddaben/lettuce/blob/master/README.md)
 5. [前端字体应用工具] (https://www.npmjs.com/package/benfont)
 6. [支持Service Worker 的demo](https://github.com/fyddaben/blog/blob/master/cnm.md)
-7. [整理支持中文的GoogleFont](https://github.com/fyddaben/blog/blob/master/googlefontchinese.html)
+7. [整理支持中文的GoogleFont](http://htmlpreview.github.io/?https://github.com/fyddaben/blog/blob/master/googlefontchinese.html)
 
 
 ### ToDoList
